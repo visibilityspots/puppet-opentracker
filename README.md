@@ -1,4 +1,4 @@
-Deploying the lightweight torrent tracker [opentracker](http://erdgeist.org/arts/software/opentracker/) service/
+Deploying the lightweight torrent tracker [opentracker](http://erdgeist.org/arts/software/opentracker/)
 
 ## Supported CentOS 6 x86
 
