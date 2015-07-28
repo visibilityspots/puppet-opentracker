@@ -1,4 +1,4 @@
-Deploying the lightweight torrent tracker [opentracker](http://erdgeist.org/arts/software/opentracker/)
+Deploying the lightweight torrent tracker [opentracker](http://erdgeist.org/arts/software/opentracker/) [![Build Status](https://travis-ci.org/visibilityspots/puppet-opentracker.svg)](https://travis-ci.org/visibilityspots/puppet-opentracker)
 
 ## Supported CentOS 6 x86
 
